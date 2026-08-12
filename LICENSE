@@ -1,0 +1,120 @@
+================================================================
+  PROPRIETARY SOFTWARE LICENSE
+================================================================
+
+  Application: 塩冶オールスターズ スタッツ
+               （塩冶オールスターズの試合スタッツ・シーズン管理・
+               大会成績・選手成長分析を行うPWAアプリ）
+  Repository:  enya.stats-from2026
+  URL:         https://oogunishou-art.github.io/enya.stats-from2026/
+  Author:      大國将 (Shou Ooguni)
+  GitHub:      https://github.com/oogunishou-art
+  Copyright:   © 2026 大國将 (Shou Ooguni). All Rights Reserved.
+
+================================================================
+  日本語（Japanese）
+================================================================
+
+本ソフトウェアおよび関連する全てのファイル（以下「本ソフトウェア」）
+の著作権は、大國将（Shou Ooguni）個人に帰属します。
+
+本ソフトウェアは、大國将個人が個人的な意思・技術・時間・費用に
+より開発した個人著作物であり、いかなる団体・チーム・組織への
+権利譲渡も行われていません。
+
+■ 禁止事項
+
+以下の行為は、著作権者である大國将の事前の書面による許諾がない
+限り、一切禁じます。
+
+  1. 本ソフトウェアの全部または一部の複製・複写・転写
+  2. 本ソフトウェアの改変・修正・派生物の作成
+  3. 本ソフトウェアの再配布・販売・貸与・公衆送信
+  4. 本ソフトウェアの逆コンパイル・逆アセンブル・
+     リバースエンジニアリング
+  5. 本ソフトウェアの著作権表示・ライセンス表示・
+     オリジンチェックコードの削除・改変・無効化
+  6. 本ソフトウェアを別のプラットフォーム・フレームワーク・
+     プログラミング言語へ移植すること
+  7. AI・機械学習モデルの学習データとしての利用
+  8. 本ソフトウェアと類似の製品を製作する目的での参照・研究
+
+■ 許諾される利用
+
+  - 著作権者本人による利用および改変
+  - 著作権者が明示的に許諾した第三者による利用
+  - セキュリティレビュー・アクセシビリティ支援・
+    翻訳等、著作権者の利益に合致する非商用的な参照
+
+■ 免責
+
+本ソフトウェアは「現状のまま」提供され、著作権者は本ソフトウェア
+の利用または利用不能によって生じたいかなる損害についても責任を
+負いません。
+
+■ 準拠法
+
+本ライセンスは、日本国の法令に準拠して解釈されます。本ライセンス
+に関する紛争は、著作権者の居所を管轄する裁判所を第一審の専属的
+合意管轄裁判所とします。
+
+================================================================
+  English
+================================================================
+
+The copyright of this software and all associated files
+(hereinafter "the Software") belongs to Shou Ooguni (大國将)
+as an individual.
+
+The Software has been developed solely by Shou Ooguni through
+his personal will, skill, time, and expense. No transfer of
+rights to any organization, team, or entity has been made.
+
+■ PROHIBITED ACTS
+
+The following acts are strictly prohibited without prior
+written permission from the copyright holder, Shou Ooguni:
+
+  1. Copying, reproducing, or transcribing the Software
+     in whole or in part.
+  2. Modifying, altering, or creating derivative works of
+     the Software.
+  3. Redistributing, selling, lending, or publicly
+     transmitting the Software.
+  4. Decompiling, disassembling, or reverse-engineering
+     the Software.
+  5. Removing, altering, or disabling the copyright notice,
+     license notice, or origin-check code of the Software.
+  6. Porting the Software to another platform, framework,
+     or programming language.
+  7. Using the Software as training data for AI or machine
+     learning models.
+  8. Referring to or studying the Software for the purpose
+     of producing similar products.
+
+■ PERMITTED USES
+
+  - Use and modification by the copyright holder himself.
+  - Use by third parties expressly authorized by the
+    copyright holder.
+  - Non-commercial reference for security review,
+    accessibility support, translation, and other purposes
+    consistent with the interests of the copyright holder.
+
+■ DISCLAIMER
+
+The Software is provided "AS IS". The copyright holder shall
+not be liable for any damages arising from the use or
+inability to use the Software.
+
+■ GOVERNING LAW
+
+This License shall be interpreted in accordance with the
+laws of Japan. Any dispute concerning this License shall
+be submitted to the court having jurisdiction over the
+copyright holder's residence as the exclusive court of
+first instance.
+
+================================================================
+© 2026 大國将 (Shou Ooguni). All Rights Reserved.
+================================================================
